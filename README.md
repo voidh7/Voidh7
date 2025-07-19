@@ -1,5 +1,5 @@
 <p align="center">
-### 🧩 about me
+🧩 about me
 - 
 Studying backend development with a focus on cybersecurity, Linux, and reverse engineering.
 
