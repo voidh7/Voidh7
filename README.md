@@ -1,17 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/srvoid7/srvoid7/main/banner.png" width="100%" alt="VOID - Cyber Identity"/>
-</p>
-
-<h1 align="center"><code>VOID</code></h1>
-<p align="center"><strong>low-level developer | infosec researcher | systems hacker</strong></p>
-
----
-
 ### 🧩 about me
-- Focused on reverse engineering, vulnerability research and darknet development
-- Builder of tools, not slides
-- Works mostly with Linux, C, assembly, and networks
-- Privacy is not a feature — it’s the default
+- 
+Studying backend development with a focus on cybersecurity, Linux, and reverse engineering.
 
 ---
 
