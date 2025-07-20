@@ -17,9 +17,7 @@
   <img src="https://img.shields.io/badge/-Shell-1e1e1e?style=flat&logo=gnu-bash"/>
   <img src="https://img.shields.io/badge/-SQLite-1e1e1e?style=flat&logo=sqlite"/>
   <img src="https://img.shields.io/badge/-Linux-1e1e1e?style=flat&logo=linux"/>
-  <img src="https://img.shields.io/badge/-Python-1e1e1e?style=flat&logo=python"/>
-</p>
-
+ 
 ---
 
 <p align="center">
