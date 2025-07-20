@@ -15,12 +15,4 @@ Studying backend development with a focus on cybersecurity, Linux, and reverse e
 
 ---
 
-### 📈 activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srvoid7&show_icons=true&hide_border=true&theme=graywhite&bg_color=000000&title_color=00ff88&icon_color=00ff88&text_color=ffffff" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srvoid7&layout=compact&hide_border=true&theme=graywhite&bg_color=000000&title_color=00ff88&text_color=ffffff" width="49%"/>
-</p>
-
----
-
 <sub><i>💻 prefer terminal over GUI, CLI over Web, raw over polished.</i></sub>
