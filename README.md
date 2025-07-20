@@ -7,7 +7,7 @@
 
 ### 📊 languages by usage
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srvoid7&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=00ff88&text_color=ffffff&border_color=000000" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidh7&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=00ff88&text_color=ffffff&border_color=000000" width="60%"/>
 </p>
 
 ### 🧠 core stack
