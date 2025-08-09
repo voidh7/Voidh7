@@ -19,6 +19,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidh7&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=00ff88&text_color=ffffff&border_color=000000" width="60%"/>
 </p>
+
 ### 🧠 Core Stack
 
 <p align="center" style="margin-top: -10px;">
@@ -27,10 +28,6 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1e1e1e?style=for-the-badge&logo=node.js&logoColor=00ff88" />
   <img alt="Shell" src="https://img.shields.io/badge/Shell-1e1e1e?style=for-the-badge&logo=gnu-bash&logoColor=00ff88" />
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-1e1e1e?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-<p align="center" style="color:#00ff88; font-weight:600; margin-top: 5px;">
-  Mastering backend development, automation, database management, and low-level programming.
 </p>
 
 
