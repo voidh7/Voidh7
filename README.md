@@ -1,8 +1,9 @@
+[![947a984a2b71ee8260c78dfbf669bf27.jpg](https://i.postimg.cc/hPg7sGV4/947a984a2b71ee8260c78dfbf669bf27.jpg)](https://postimg.cc/DmjZynCR)
 <p align="center">
   🧩 <strong>About Me</strong><br>
   I'm a self-taught backend developer and offensive cybersecurity enthusiast.<br>
   Focused on mastering Linux, reverse engineering, and building secure systems.<br>
-  Always prefer the terminal, CLI, and raw power over GUIs and flashy tools.
+  Always prefer the terminal, CLI, reverse raw power over GUIs and flashy tools.
 </p>
 
 ---
