@@ -19,22 +19,20 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidh7&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=00ff88&text_color=ffffff&border_color=000000" width="60%"/>
 </p>
+### 🧠 Core Stack
 
-### 🧠 Core stack
-<p align="center">
-  <img src="https://img.shields.io/badge/C-1e1e1e?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-1e1e1e?style=flat&logo=python&logoColor=yellow" />
+<p align="center" style="margin-top: -10px;">
+  <img alt="C" src="https://img.shields.io/badge/C-1e1e1e?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-1e1e1e?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1e1e1e?style=for-the-badge&logo=node.js&logoColor=00ff88" />
+  <img alt="Shell" src="https://img.shields.io/badge/Shell-1e1e1e?style=for-the-badge&logo=gnu-bash&logoColor=00ff88" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-1e1e1e?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-<h2 align="center" style="color:#00ff88;">Web</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-1e1e1e?style=flat&logo=node.js" />
-  <img src="https://img.shields.io/badge/Shell-1e1e1e?style=flat&logo=gnu-bash" />
-  <img src="https://img.shields.io/badge/SQLite-1e1e1e?style=flat&logo=sqlite" />
-  <img src="https://img.shields.io/badge/Shell-1e1e1e?style=flat&logo=gnu-bash" />
+<p align="center" style="color:#00ff88; font-weight:600; margin-top: 5px;">
+  Mastering backend development, automation, database management, and low-level programming.
 </p>
 
----
 
 <p align="center">
   <sub><i>💻 Prefer terminal over GUI, CLI over Web, raw over polished.</i></sub>
