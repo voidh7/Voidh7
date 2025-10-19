@@ -7,12 +7,8 @@
 <p align="center">
   🧩 <strong>sobre mim </strong><br>
   crio e hackeio coisas :D
-  sou um estudante de cyber segurança ofensiva autodidata  ê normalmente progamo em python ou c 
+  sou um estudante de cyber segurança ofensiva autodidata  ê normalmente progamo em python,bash ou c 
 </p>
-
-
-
----
 
 
 ###  stack
