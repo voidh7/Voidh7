@@ -20,3 +20,4 @@
   <img alt="Shell" src="https://img.shields.io/badge/Shell-1e1e1e?style=for-the-badge&logo=gnu-bash&logoColor=00ff88" />
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-1e1e1e?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
+
