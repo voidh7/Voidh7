@@ -3,8 +3,6 @@
   <img src="https://img.shields.io/badge/Hacker_Mindset-black?style=for-the-badge&logo=hackthebox&logoColor=00ff88" alt="Hacker Mindset" />
   <img src="https://img.shields.io/badge/Terminal-Over_GUI-black?style=for-the-badge&logo=gnu-bash&logoColor=00ff88" alt="Terminal over GUI" />
   <img src="https://img.shields.io/badge/Offensive_Security-black?style=for-the-badge&logo=tryhackme&logoColor=00ff88" alt="Offensive Security" />
-</p>
-[![947a984a2b71ee8260c78dfbf669bf27.jpg](https://i.postimg.cc/hPg7sGV4/947a984a2b71ee8260c78dfbf669bf27.jpg)](https://postimg.cc/DmjZynCR)]
 
 <p align="center">
   🧩 <strong>sobre mim </strong><br>
